@@ -58,7 +58,6 @@ body{
     animation:  homeBgText 6s linear infinite ;
     animation-delay: 1s;
 }
-
 .navbar{
     position: relative;
 }
