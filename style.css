@@ -511,7 +511,7 @@ span{
 }
 
 .contact form .input-box .input-field{
-    position: relative;
+    position: relative; 
     width: 49%;
     margin: .8rem 0;
 }
