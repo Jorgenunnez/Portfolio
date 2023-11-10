@@ -456,6 +456,7 @@ span{
  box-shadow: 0px 1px 10px rgba(0,0,0,0.2);
  cursor: default;
  transition: all 400ms ease;
+ border: .2rem solid var(--main-color);
 }
 .card:hover{
     box-shadow: 5px 5px 20px rgba(112, 1, 192,0.6);
